@@ -1,6 +1,6 @@
 # 🎓 Project Management Capstone – Final Project Artifacts
 
-This repository contains the final project deliverables for the **Project Management Capstone** course, part of the [IBM Project Management Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-project-management) and the [IBM IT Project Management Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-it-project-management).
+This repository contains the final project deliverables for the **Project Management Capstone** course, part of the [IBM Project Management Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-project-manager) and the [IBM IT Project Management Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-it-project-manager#courses).
 
 ## 📌 Project Overview
 
