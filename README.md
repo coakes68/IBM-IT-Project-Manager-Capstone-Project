@@ -29,12 +29,12 @@ These documents can be used to showcase foundational project management competen
   - Charter
   - WBS
   - Risk Register
-  - Communication & Quality Plans *(developed earlier in course)*
+  - Communication & Quality Plans
 
 - **Adaptive (Agile):**
   - Product Backlog
   - Sprint Planning (not shown)
-  - Burndown Chart *(not submitted here)*
+  - Burndown Chart
   - User Stories
 
 ---
@@ -52,7 +52,7 @@ This project demonstrates my ability to:
 
 ## 🧑‍💼 Role
 
-**Title:** Project Manager  
+**Title:** Project Manager / IT Project Manager 
 **Tools Used:** Google Sheets, Google Docs, Draw.io, Agile Boards  
 **Context:** Simulated capstone environment with peer review and stakeholder simulation
 
@@ -60,7 +60,7 @@ This project demonstrates my ability to:
 
 ## 📬 Contact
 
-For more information or to view my full project management portfolio, feel free to connect via [LinkedIn](https://www.linkedin.com/in/joshuawvarner) or reach out at **jwv.arner@outlook.com**.
+For more information, feel free to connect via [LinkedIn](https://www.linkedin.com/in/oakeschristopher) or reach out at **coakes68@gmail.com**.
 
 ---
 
